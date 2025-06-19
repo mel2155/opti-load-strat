@@ -10,7 +10,7 @@ var link_mb = {
                 
                 hthH5:'https://www.s6q7m.com:9972/register25371/?i_code=2298291',//   
                 hthApp:'https://www.s6q7m.com:9972/register25371/?i_code=2298291',// 
-				        ayxH5:'https://www.s6q7m.com:9972/register25371/?i_code=2298291',//   
+		ayxH5:'https://www.s6q7m.com:9972/register25371/?i_code=2298291',//   
                 ayxApp:'https://www.s6q7m.com:9972/register25371/?i_code=2298291',// 
                 }
                 
